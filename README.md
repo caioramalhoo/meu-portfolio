@@ -5,17 +5,9 @@ Atualmente focado em **desenvolvimento web**, sempre buscando evoluir minhas hab
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 Sobre o Projeto
 
-Sou um desenvolvedor iniciante que gosta de aprender na prática, criando projetos reais e melhorando continuamente meu código.
-
-Tenho interesse principalmente em:
-
-- Desenvolvimento Front-end
-- Lógica de programação
-- Projetos pessoais
-- Boas práticas de código
-- Aprendizado constante
+Este site funciona como meu cartão de visitas digital. Nele, apresento minhas habilidades técnicas, projetos em destaque (como o Simulador de Juros de Cartão) e forneço uma forma direta de contato para recrutadores e parceiros.
 
 Meu objetivo é conquistar minha primeira oportunidade na área de tecnologia e crescer profissionalmente como desenvolvedor.
 
@@ -23,14 +15,12 @@ Meu objetivo é conquistar minha primeira oportunidade na área de tecnologia e 
 
 ## 🛠️ Tecnologias
 
-Atualmente trabalho e estudo:
+O projeto foi construído utilizando as seguintes tecnologias:
 
-- HTML5  
-- CSS3  
-- JavaScript  
-- Git & GitHub  
-- Java  
-- Python  
+- Linguagens: HTML5, CSS3 e JavaScript
+- Habilidades em Foco: Java, C, React e Node.js
+- Serviços Externos: Formspree para a gestão de formulários de contato
+- Versionamento e Deploy: Git, GitHub e GitHub Pages
 
 ---
 
