@@ -1,35 +1,66 @@
-🚀 Meu Portfólio Profissional
-Bem-vindo ao repositório do meu portfólio pessoal! Este projeto foi desenvolvido para consolidar meus conhecimentos em desenvolvimento web e apresentar minha trajetória como estudante de Análise e Desenvolvimento de Sistemas.
+# 👋 Olá, eu sou Caio Ramalho
 
-📝 Sobre o Projeto
-Este site funciona como meu cartão de visitas digital. Nele, apresento minhas habilidades técnicas, projetos em destaque (como o Simulador de Juros de Cartão) e forneço uma forma direta de contato para recrutadores e parceiros.
+💻 Desenvolvedor em início de carreira, apaixonado por tecnologia e criação de soluções digitais.  
+Atualmente focado em **desenvolvimento web**, sempre buscando evoluir minhas habilidades e construir projetos práticos.
 
-🛠️ Tecnologias e Ferramentas
-O projeto foi construído utilizando as seguintes tecnologias:
+---
 
-Linguagens: HTML5, CSS3 e JavaScript.
+## 🚀 Sobre mim
 
-Habilidades em Foco: Java, C, React e Node.js.
+Sou um desenvolvedor iniciante que gosta de aprender na prática, criando projetos reais e melhorando continuamente meu código.
 
-Serviços Externos: Formspree para a gestão de formulários de contato.
+Tenho interesse principalmente em:
 
-Versionamento e Deploy: Git, GitHub e GitHub Pages.
+- Desenvolvimento Front-end
+- Lógica de programação
+- Projetos pessoais
+- Boas práticas de código
+- Aprendizado constante
 
-✨ Funcionalidades
-Design Responsivo: Adaptado para proporcionar uma boa experiência em desktops e dispositivos móveis.
+Meu objetivo é conquistar minha primeira oportunidade na área de tecnologia e crescer profissionalmente como desenvolvedor.
 
-Formulário de Contato: Integrado para recebimento de mensagens diretamente no meu e-mail, com página de agradecimento personalizada.
+---
 
-Download de CV: Botão funcional para baixar minha trajetória profissional atualizada.
+## 🛠️ Tecnologias
 
-Estética Pixel Art: Visual moderno e limpo, inspirado na estética de pixel art em alguns elementos visuais.
+Atualmente trabalho e estudo:
 
-💻 Como Visualizar
-Você pode acessar o portfólio online através do link: 👉 caioramalhoo.github.io/meu-portfolio
+- HTML5  
+- CSS3  
+- JavaScript  
+- Git & GitHub  
+- Java  
+- Python  
 
-🤝 Contato
-Sinta-se à vontade para se conectar comigo ou enviar um recado!
+---
 
-LinkedIn: (https://www.linkedin.com/in/caioramalhoo/)
+## 📂 Projetos
 
-Instagram: @caiovramalho
+Aqui estão alguns projetos que fazem parte do meu aprendizado:
+
+### 🔹 Simulador de Juros no Cartão
+Aplicação simples que calcula juros de compras parceladas.
+
+👉 Acesse: https://caioramalhoo.github.io/simulador-juros-cartao/
+
+---
+
+### 🔹 Site de Carros de Luxo
+Projeto front-end focado em layout, organização visual e responsividade.
+
+---
+
+*(Mais projetos em breve 🚧)*
+
+---
+
+## 📫 Contato
+
+- LinkedIn: https://www.linkedin.com/in/caioramalhoo/  
+- GitHub: https://github.com/caioramalhoo  
+
+Fique à vontade para entrar em contato!
+
+---
+
+⭐ Se você gostou de algum projeto, não esqueça de deixar uma estrela!
