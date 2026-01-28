@@ -24,26 +24,6 @@ O projeto foi construído utilizando as seguintes tecnologias:
 
 ---
 
-## 📂 Projetos
-
-Aqui estão alguns projetos que fazem parte do meu aprendizado:
-
-### 🔹 Simulador de Juros no Cartão
-Aplicação simples que calcula juros de compras parceladas.
-
-👉 Acesse: https://caioramalhoo.github.io/simulador-juros-cartao/
-
----
-
-### 🔹 Site de Carros de Luxo
-Projeto front-end focado em layout, organização visual e responsividade.
-
----
-
-*(Mais projetos em breve 🚧)*
-
----
-
 ## 📫 Contato
 
 - LinkedIn: https://www.linkedin.com/in/caioramalhoo/  
